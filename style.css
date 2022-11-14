@@ -1,0 +1,41 @@
+.wrapper{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    vertical-align: baseline;
+    border-radius: 10px;
+    background-color: rgb(13, 14, 13);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.display{
+        border-radius: 10px;
+        position: relative;
+        width: 450px;
+        padding: 40px 50px;
+        display: table;
+}
+
+.display .timer{
+        text-align: center;
+        width: 450px;
+        height: 100px;
+        clear: both;
+        font-weight: 500;
+        font-size: 4em;
+}
+
+#button-bar-id{
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
