@@ -19,7 +19,7 @@ HTML, CSS, vanila javascript, Bootstrap. visit https://vikramkbgs.github.io/Stop
 
 ### Lessons Learned
 
-- Developing this project was very exiting for me. during this project i explore the important of parent div, if we smartly layout the parent div then it will help you to positioning the child element.
+- Developing this project was very exiting for me. during this project i explore the importance of parent div, if we smartly layout the parent div then it will help you to positioning the child element.
 - Awsome icon make every web application elegant. we should choose icon based on it's context.
 
 <h3 align="left">Connect with me:</h3>
