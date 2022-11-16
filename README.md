@@ -16,6 +16,12 @@ HTML, CSS, vanila javascript, Bootstrap. visit https://vikramkbgs.github.io/Stop
 
 ![App Screenshot](https://github.com/vikramkbgs/Stopwatch/blob/9e295b705fc799f4f55681e7bb474f8a00afe41c/stopwatch.PNG)
 
+
+### Lessons Learned
+
+- Developing this project was very exiting for me. during this project i explore the important of parent div, if we smartly layout the parent div then it will help you to positioning the child element.
+- Awsome icon make every web application elegant. we should choose icon based on it's context.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikramkbgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikramkbgs" height="30" width="40" /></a>
