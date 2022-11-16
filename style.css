@@ -3,7 +3,7 @@
     padding: 0;
     list-style: none;
     vertical-align: baseline;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     background-color: rgb(13, 14, 13);
     display: flex;
     justify-content: center;
