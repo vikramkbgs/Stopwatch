@@ -1,8 +1,4 @@
 
-![](https://i.stack.imgur.com/B6rXq.gif)
-
-
-
 # Stopwatch
 
 This is Stopwatch project created with the help of
